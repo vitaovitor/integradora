@@ -1,0 +1,10 @@
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.palavra_titulo{
+    font-size: 55px;
+    font-family: 'Righteous', cursive;
+}

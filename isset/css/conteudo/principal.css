@@ -1,0 +1,10 @@
+.principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.principal_imagem {
+    height: 350px;
+    margin-top: 20px;
+}

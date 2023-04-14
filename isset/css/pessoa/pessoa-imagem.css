@@ -1,0 +1,25 @@
+.pessoa__imagem{
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.pessoa__imagem--kauan{
+    background-image: url(../../img/main/kauan.jpg);
+}
+.pessoa__imagem--athila{
+    background-image: url(../../img/main/athila.jpg);
+}
+.pessoa__imagem--adeson{
+    background-image: url(../../img/main/adeson.jpg);
+}
+.pessoa__imagem--vitor{
+    background-image: url(../../img/main/vitor.jpg);
+}
+.pessoa__imagem--hugo{
+    background-image: url(../../img/main/hugo.jpg);
+}

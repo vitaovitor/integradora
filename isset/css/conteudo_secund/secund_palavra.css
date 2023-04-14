@@ -1,0 +1,15 @@
+.secundario_titulo {
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 50px;
+    color: #FFF2E7;
+}
+.secundario_paragrafo {
+    font-family: 'Sarala', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
+    text-align: center;
+}
